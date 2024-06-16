@@ -2,7 +2,10 @@
 # NASODnsgaSO-NET
 ## Neural Architecture Search for Object Detectors using NSGA2 by Surrogates Optimization
 ## Genetic Integer Encoding
-![image](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/f1a27dbf-7b81-48a3-979c-a71005bb59a6)
+![image](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/0c6293b3-aeb7-43ef-8029-77e98053ced6)
+![image](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/8f00c525-9b02-4461-b393-3d55200f452b)
+![image](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/fddce117-cff6-4af5-9be6-00274717754d)
+![image](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/fcff47e1-99f5-4bc2-ba12-16d6598d54ba)
 ## Genetic Pareto-front
 ![WhatsApp Image 2024-06-15 at 23 20 47 (1)](https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/f7359dde-c948-4378-bd9a-c383fefb840e)
 # Dimension reduction of Genomes using AUTOENCODERS
