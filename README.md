@@ -12,8 +12,12 @@
 ## Novel Genomes
 <img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/04f40d88-5666-4fa6-8f09-10accfeb1953" alt="image" width="1000">
 
+## Run Search 
 ```
-mxcnx kc
+# SINGLE GPU TRAINING
+CUDA_VISIBLE_DEVICES=0 python3 nasod_gen_search.py
+# MULTI GPU TRAINING
+CUDA_VISIBLE_DEVICES=0,1,2,3 python3 nasod_gen_search.py
 ```
 
 ## Genetic Pareto-front
