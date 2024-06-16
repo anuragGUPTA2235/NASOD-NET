@@ -10,7 +10,7 @@
 <img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/fcff47e1-99f5-4bc2-ba12-16d6598d54ba" alt="image" width="200">
 
 ### Novel Genomes
-<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/04f40d88-5666-4fa6-8f09-10accfeb1953" alt="image" width="500">
+<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/04f40d88-5666-4fa6-8f09-10accfeb1953" alt="image" width="1000">
 
 ### Genetic Pareto-front
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/f7359dde-c948-4378-bd9a-c383fefb840e" alt="image" width="1000">
