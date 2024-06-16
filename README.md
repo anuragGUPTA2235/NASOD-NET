@@ -1,5 +1,4 @@
 # Dedicated to cosmos
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 # NASODnsgaSO-NET
 ## Neural Architecture Search for Object Detectors using NSGA2 by Surrogates Optimization
 ![WhatsApp Image 2024-06-15 at 23 20 47 (1)](https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/f7359dde-c948-4378-bd9a-c383fefb840e)
