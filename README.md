@@ -9,6 +9,8 @@
 ![WhatsApp Image 2024-06-15 at 23 04 52](https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/0af960e3-c743-4c5e-8fdd-f668d400dc5b)
 ![WhatsApp Image 2024-06-15 at 23 04 52 (1)](https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/319f3ea1-d392-491b-97a9-d64b7a2f7408)
 ![WhatsApp Image 2024-06-15 at 19 23 06](https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/21f7cdaa-ac61-4c71-9550-6915d28c1d3c)
+## PASCAL-VOC 20 Class
+![image](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/b57ed683-b944-4f8d-bf59-7f9a2ecd3532)
 ## MS-COCO 91 Class
 ![WhatsApp Image 2024-06-15 at 23 06 12](https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/de8f863c-2c2a-4300-89a2-a3636653e00f)
 ## Summary
