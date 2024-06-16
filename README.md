@@ -31,6 +31,27 @@ CUDA_VISIBLE_DEVICES=0 python3 nasod_gen_search.py
 # MULTI GPU TRAINING
 CUDA_VISIBLE_DEVICES=0,1,2,3 python3 nasod_gen_search.py
 ```
+```
+# TRAIN GENOMES
+# SINGLE GPU TRAINING
+CUDA_VISIBLE_DEVICES=0 python3 train_nasod.py
+# MULTI GPU TRAINING
+CUDA_VISIBLE_DEVICES=0,1,2,3 python3 train_nasod.py
+```
+```
+# GET MEAN AVERAGE PRECISION
+# SINGLE GPU TRAINING
+CUDA_VISIBLE_DEVICES=0 python3 evaluate.py
+# MULTI GPU TRAINING
+CUDA_VISIBLE_DEVICES=0,1,2,3 python3 evaluate.py
+```
+```
+# PLOT BBOX
+# SINGLE GPU TRAINING
+CUDA_VISIBLE_DEVICES=0 python3 plot_prediction.py
+# MULTI GPU TRAINING
+CUDA_VISIBLE_DEVICES=0,1,2,3 python3 plot_prediction.py
+```
 
 ## Genetic Pareto-front
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/f7359dde-c948-4378-bd9a-c383fefb840e" alt="image" width="1000">
