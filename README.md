@@ -25,6 +25,7 @@ CUDA_VISIBLE_DEVICES=0 python3 detectorcube/code/archive.py
 CUDA_VISIBLE_DEVICES=0,1,2,3 python3 detectorcube/code/archive.py
 ```
 ```
+# RUN SEARCh
 # SINGLE GPU TRAINING
 CUDA_VISIBLE_DEVICES=0 python3 nasod_gen_search.py
 # MULTI GPU TRAINING
