@@ -70,6 +70,8 @@ In an effort to efficiently map surrogate values to genomic data, I utilized an 
 <img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/bbb0169b-7f3d-42e4-bee7-29e287d9a8e3" alt="image" width="1000">
 
 ## Surrogate Models on Archive
+![pySOT](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/7a881d9b-cda8-40da-93f8-ed3d8113544b)
+
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/0af960e3-c743-4c5e-8fdd-f668d400dc5b" alt="image" width="1000">
 
 ## Ancestors taken from different parts of Search Space
