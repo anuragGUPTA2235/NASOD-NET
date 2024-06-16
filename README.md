@@ -18,6 +18,10 @@
 # Dimension reduction of Genomes using AUTOENCODERS
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/9252a93a-3b90-4957-b4f9-63f9900b3741" alt="image" width="200">
 
+<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/bbb0169b-7f3d-42e4-bee7-29e287d9a8e3" alt="image" width="200">
+
+
+
 ### Surrogate Models on Archive
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/0af960e3-c743-4c5e-8fdd-f668d400dc5b" alt="image" width="200">
 
