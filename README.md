@@ -14,6 +14,13 @@
 
 ## Run Search 
 ```
+# GENERATE INITIAL POPULATION
+# SINGLE GPU TRAINING
+CUDA_VISIBLE_DEVICES=0 python3 popu_generator.py
+# MULTI GPU TRAINING
+CUDA_VISIBLE_DEVICES=0,1,2,3 python3 popu_generator.py
+```
+```
 # SINGLE GPU TRAINING
 CUDA_VISIBLE_DEVICES=0 python3 nasod_gen_search.py
 # MULTI GPU TRAINING
