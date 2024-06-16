@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "trainnasod.py", line 7, in <module>
+    from nasodmodel import YOLOv1
+  File "/home/uday/anurag/headofdetectors/goddetector/code/nasodmodel.py", line 6, in <module>
+    from torchsummary import summary
+ModuleNotFoundError: No module named 'torchsummary'

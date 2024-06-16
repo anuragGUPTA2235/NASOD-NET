@@ -1,2 +1,0 @@
-checkpoints/pretrained_model_weights.pt filter=lfs diff=lfs merge=lfs -text
-checkpoints/trained_model_weights.pt filter=lfs diff=lfs merge=lfs -text
