@@ -4,10 +4,10 @@
 ### Neural Architecture Search for Object Detectors using NSGA2 by Surrogates Optimization
 ### Genetic Integer Encoding
 
-<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/0c6293b3-aeb7-43ef-8029-77e98053ced6" alt="image" width="200">
-<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/8f00c525-9b02-4461-b393-3d55200f452b" alt="image" width="200">
-<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/fddce117-cff6-4af5-9be6-00274717754d" alt="image" width="200">
-<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/fcff47e1-99f5-4bc2-ba12-16d6598d54ba" alt="image" width="200">
+<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/0c6293b3-aeb7-43ef-8029-77e98053ced6" alt="image" width="1000">
+<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/8f00c525-9b02-4461-b393-3d55200f452b" alt="image" width="1000">
+<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/fddce117-cff6-4af5-9be6-00274717754d" alt="image" width="1000">
+<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/fcff47e1-99f5-4bc2-ba12-16d6598d54ba" alt="image" width="1000">
 
 ### Novel Genomes
 <img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/04f40d88-5666-4fa6-8f09-10accfeb1953" alt="image" width="1000">
