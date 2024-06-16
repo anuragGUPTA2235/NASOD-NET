@@ -45,6 +45,7 @@ CUDA_VISIBLE_DEVICES=0 python3 train_nasod.py
 # MULTI GPU TRAINING
 CUDA_VISIBLE_DEVICES=0,1,2,3 python3 train_nasod.py
 ```
+![Screenshot 2024-03-15 103425](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/6230bca3-946a-4cd7-92c3-a62631cd08e9)
 ```
 # GET MEAN AVERAGE PRECISION
 # SINGLE GPU TRAINING
