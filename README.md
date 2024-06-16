@@ -15,10 +15,14 @@
 ## Run Search 
 ```
 # GENERATE INITIAL POPULATION
+python3 popu_generator.py
+```
+```
+# GENERATE ARCHIVE
 # SINGLE GPU TRAINING
-CUDA_VISIBLE_DEVICES=0 python3 popu_generator.py
+CUDA_VISIBLE_DEVICES=0 python3 archive.py
 # MULTI GPU TRAINING
-CUDA_VISIBLE_DEVICES=0,1,2,3 python3 popu_generator.py
+CUDA_VISIBLE_DEVICES=0,1,2,3 python3 archive.py
 ```
 ```
 # SINGLE GPU TRAINING
