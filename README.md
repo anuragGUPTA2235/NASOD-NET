@@ -94,3 +94,7 @@ In an effort to efficiently map surrogate values to genomic data, I utilized an 
 
 ## Archive
 <img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/c0cb35cd-8be6-4345-8938-b71b9164301b" alt="image" width="1000">
+
+## See BBOX
+![image](https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/963b9f51-c2b0-4b20-9c5a-f98a4a90d9a2)
+
