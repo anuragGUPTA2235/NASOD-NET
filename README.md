@@ -44,5 +44,4 @@
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/15300dc3-588b-447c-855e-6a8b9fd4710c" alt="image" width="1000">
 
 ## Archive
-
-<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/fe204a22-0a59-4315-a1a9-c606518d0824" alt="image" width="1000">
+<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/c0cb35cd-8be6-4345-8938-b71b9164301b" alt="image" width="1000">
