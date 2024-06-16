@@ -13,7 +13,7 @@
 <img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/04f40d88-5666-4fa6-8f09-10accfeb1953" alt="image" width="500">
 
 ### Genetic Pareto-front
-<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/f7359dde-c948-4378-bd9a-c383fefb840e" alt="image" width="500">
+<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/f7359dde-c948-4378-bd9a-c383fefb840e" alt="image" width="1000">
 
 # Dimension reduction of Genomes using AUTOENCODERS
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/9252a93a-3b90-4957-b4f9-63f9900b3741" alt="image" width="200">
