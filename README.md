@@ -15,7 +15,7 @@
 ### Genetic Pareto-front
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/f7359dde-c948-4378-bd9a-c383fefb840e" alt="image" width="1000">
 
-# Dimension reduction of Genomes using AUTOENCODERS
+### Dimension reduction of Genomes using AUTOENCODERS
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/9252a93a-3b90-4957-b4f9-63f9900b3741" alt="image" width="1000">
 
 <img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/bbb0169b-7f3d-42e4-bee7-29e287d9a8e3" alt="image" width="1000">
@@ -25,7 +25,7 @@
 ### Surrogate Models on Archive
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/0af960e3-c743-4c5e-8fdd-f668d400dc5b" alt="image" width="1000">
 
-# Ancestors taken from different parts of Search Space
+### Ancestors taken from different parts of Search Space
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/319f3ea1-d392-491b-97a9-d64b7a2f7408" alt="image" width="1000">
 
 ### Node Operation
