@@ -26,19 +26,19 @@
 <img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/0af960e3-c743-4c5e-8fdd-f668d400dc5b" alt="image" width="1000">
 
 # Ancestors taken from different parts of Search Space
-<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/319f3ea1-d392-491b-97a9-d64b7a2f7408" alt="image" width="200">
+<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/319f3ea1-d392-491b-97a9-d64b7a2f7408" alt="image" width="1000">
 
 ### Node Operation
-<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/21f7cdaa-ac61-4c71-9550-6915d28c1d3c" alt="image" width="200">
+<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/21f7cdaa-ac61-4c71-9550-6915d28c1d3c" alt="image" width="1000">
 
 ### PASCAL-VOC 20 Class
-<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/b57ed683-b944-4f8d-bf59-7f9a2ecd3532" alt="image" width="200">
+<img src="https://github.com/anuragGUPTA2235/NASODnsgaSO-NET/assets/161227082/b57ed683-b944-4f8d-bf59-7f9a2ecd3532" alt="image" width="1000">
 
 ### MS-COCO 91 Class
-<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/de8f863c-2c2a-4300-89a2-a3636653e00f" alt="image" width="200">
+<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/de8f863c-2c2a-4300-89a2-a3636653e00f" alt="image" width="1000">
 
 ### Summary
-<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/4eb3d814-80ac-4ae1-8bf8-5d4b185d018c" alt="image" width="200">
+<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/4eb3d814-80ac-4ae1-8bf8-5d4b185d018c" alt="image" width="1000">
 
 ### All models are present in release
-<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/15300dc3-588b-447c-855e-6a8b9fd4710c" alt="image" width="200">
+<img src="https://github.com/anuragGUPTA2235/NASOD-NET/assets/161227082/15300dc3-588b-447c-855e-6a8b9fd4710c" alt="image" width="1000">
